@@ -20,7 +20,7 @@
                 <input type="text" name="name"><br>
                 <h1>Email: </h1>
                 <input type="text" name="email"><br>
-                <h2>Password: </h2>
+                <h2>Passwordadasdasd: </h2>
                 <input type="password" name="password"><br><br>
                 <h2>Password Confirmation: </h2>
                 <input type="password" name="password_confirmation"><br><br>
